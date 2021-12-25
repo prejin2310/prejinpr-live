@@ -4696,7 +4696,6 @@ button.about-btn:hover{
 .bar .progress-line.python span{
   width: 50%;
 }
-.bar .progress-line.mysql span{
-  width: 23%;
+.bar .progress-line.mysql span{ width: 23%;
 }
 
