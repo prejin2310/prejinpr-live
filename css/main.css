@@ -807,3 +807,9 @@ section .row span {
 		transform: none
 	}
 }
+
+.certificate  {
+	width: 32%;
+	height: 30%;
+	padding: 2%;
+}
