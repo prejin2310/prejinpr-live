@@ -412,7 +412,7 @@ section .row span {
     padding-bottom: 15%; */
     
 	
-        background: linear-gradient(121deg,#feac5e, #c779d0, #4bc0c8,#38ef7d,#9ef01a);
+        background: linear-gradient(121deg,#c2e9fb, #a1c4fd, #e0c3fc,#f093fb,#f5576c,#fee140,#96fbc4);
         background-size: 400% 400%;
         animation: gradient 15s ease infinite;
         height: 85vh;
@@ -695,8 +695,8 @@ section .row span {
 }
 
 #projects {
-	background-color: #e5e5e5;
-	color: #272341;
+	background-color: #EEF1FF;
+	color: #0A2647;
 	margin-top: -15rem;
 	padding-top: 15rem
 }
